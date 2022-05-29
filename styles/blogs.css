@@ -528,11 +528,11 @@ body {
 .new_blog .blog_img{
     width: 100%;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    max-height: 400px;
+    overflow: hidden;
 }
 .new_blog .blog_img img{
-align-items: center;
-border-radius: 50%;
 }
 
 .fix_cont_sticky{
