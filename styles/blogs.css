@@ -496,13 +496,13 @@ body {
     overflow: visible;
 
 }
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
     width: 10px;
   }
 ::-webkit-scrollbar-thumb{
     border-radius: 10px;
     background-color: lightslategray;
-} */
+}
 .new_blog::-webkit-scrollbar-track{
     border-radius: 10px;
     padding: 0 10px;
@@ -523,7 +523,7 @@ body {
 }
 .new_blog .blog_content{
     font-family: 'Montserrat', sans-serif;
-    font-size: larger;
+    font-size: 50px;
 }
 .new_blog .blog_img{
     width: 100%;
