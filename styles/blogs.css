@@ -83,7 +83,7 @@ body {
     overscroll-behavior: contain;
     width: 100%;
     height: auto;
-    overflow: visible;
+    overflow: hidden;
 }
 
 /* canvas {
@@ -523,7 +523,7 @@ body {
 }
 .new_blog .blog_content{
     font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
+    font-size: x-large;
 }
 .new_blog .blog_img{
     width: 100%;
